@@ -1,0 +1,40 @@
+
+pytz
+
+plotly
+
+requests
+joblib
+
+
+
+
+# Core
+streamlit
+pandas
+numpy
+
+# Network/Threat Analysis
+scapy
+dnspython
+geoip2
+python-whois
+python-nmap
+virustotal-api
+python-dateutil
+# Visualization
+folium 
+streamlit-folium
+matplotlib
+
+# PDF Reporting
+reportlab
+
+# Security/SSL
+pyOpenSSL
+importlib
+
+# Utilities
+ipaddress
+logging
+python-dotenv
